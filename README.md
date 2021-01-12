@@ -1,6 +1,6 @@
 # emoji-cheat-sheet
 
-## basic Markdown Syntax
+## Basic Markdown Syntax
 
 https://www.markdownguide.org/basic-syntax/
 
